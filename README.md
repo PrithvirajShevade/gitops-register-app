@@ -1,2 +1,2 @@
 
-# GitOps-register-app
+# gitops-register-app
