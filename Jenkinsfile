@@ -1,5 +1,5 @@
 pipeline {
-    agent { label "prithvi-agent" }
+    agent { label "jenkins-agent" }
     environment {
               APP_NAME = "register-app-pipeline"
     }
